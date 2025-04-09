@@ -5,7 +5,7 @@ A simple web application that formats telephone numbers in a readable format usi
 ## 🔗 Live Demo
 
 Check out the live demo here:  
-👉 [https://amruthacgowda.github.io/telephone-formatter](https://amruthacgowda.github.io/telephone-formatter)
+👉 [https://amruthacgowda.github.io/telephone-formatter](https://amruthacgowda.github.io/telephone-formatter){:target="_blank"}
 
 
 ## 🛠️ Technologies Used
