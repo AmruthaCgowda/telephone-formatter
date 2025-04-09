@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Telephone formatter</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="index.js" type="module"></script>
+  </head>
+  <body>
+    <div class="h-screen flex items-center justify-center">
+			<div class="p-6 border brder-solid border-gray-400 rounded-lg text-center shadow-md">
+				<h1 class="text-xl text-black font-bold mb-6">Telephone formatter</h1>
+				<input class="outline-none border border-solid border-gray-300 rounded-sm py-1 px-1 mb-2 w-64" type="tel" id="phone" maxlength="16" placeholder="Mobile number" autocomplete="off" />
+				<div>
+					<label for="phone" class="text-base">+(123) - 4567890</label>
+				</div>
+			</div>
+    </div>
+  </body>
+</html>
