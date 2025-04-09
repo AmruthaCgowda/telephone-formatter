@@ -3,9 +3,7 @@
 A simple web application that formats telephone numbers in a readable format using HTML, Tailwind CSS, and JavaScript.
 
 ## 🔗 Live Demo
-
-Check out the live demo here:  
-👉 [https://amruthacgowda.github.io/telephone-formatter](https://amruthacgowda.github.io/telephone-formatter){:target="_blank"}
+<a href="https://amruthacgowda.github.io/telephone-formatter" target="_blank">Check here</a>
 
 
 ## 🛠️ Technologies Used
